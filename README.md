@@ -22,5 +22,6 @@ Here are some ideas to get you started:
  - 🛠️ **Field**: AI Agent
 
 ![](https://raw.githubusercontent.com/cmgzn/cmgzn/560aa427a561a0067ed5be4bb37bd345c6f4712a/github-contribution-grid-snake.svg)
+
 ~~obsessed with useless things~~  
 # **a thorough pragmatist**
