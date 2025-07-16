@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm **cmgzn** 👋
+# I'm **cmgzn**, I love steak (swallow). 👋🥩
 **Mg** stands for Magnesium, **Zn** stands for Zinc —by the way, I'm not a fan of chemistry
  ## Skills
  - 🌟 **Language**: Python
  - 🛠️ **Field**: AI Agent
+
+One steak a day keeps the doctor away.
 
 ![](https://raw.githubusercontent.com/cmgzn/cmgzn/560aa427a561a0067ed5be4bb37bd345c6f4712a/github-contribution-grid-snake.svg)
