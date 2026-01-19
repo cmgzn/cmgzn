@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 One steak a day keeps the doctor away.
 
-![](https://raw.githubusercontent.com/cmgzn/cmgzn/560aa427a561a0067ed5be4bb37bd345c6f4712a/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/cmgzn/cmgzn/output/github-contribution-grid-snake-dark.svg)  
+![亮色](https://raw.githubusercontent.com/cmgzn/cmgzn/output/github-contribution-grid-snake.svg)
+
 
 ~~其实并不喜欢吃牛排因为太塞牙了~~
