@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm **cmgzn**, I love steak (swallow). 👋🥩
+# I'm **cmgzn**, I love steak. 👋🥩
 **Mg** stands for Magnesium, **Zn** stands for Zinc —by the way, I'm not a fan of chemistry
  ## Skills
  - 🌟 **Language**: Python
@@ -30,4 +30,4 @@ One steak a day keeps the doctor away.
 </picture>
 
 
-~~其实并不喜欢吃牛排因为太塞牙了~~
+~~请给我吃牛排~~
