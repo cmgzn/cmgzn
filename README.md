@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Mg** stands for Magnesium, **Zn** stands for Zinc —by the way, I'm not a fan of chemistry
  ## Skills
  - 🌟 **Language**: Python
- - 🛠️ **Field**: AI Agent
+ - 🛠️ **Field**: AI Agent & Harness Engineering
 
 One steak a day keeps the doctor away.
 
